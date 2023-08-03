@@ -1,2 +1,3 @@
-#!/bin/bash
-mkdir /tmp/my_first_directory
+[master c2cb04b] Creating my first folder via a script
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/6-firstdirectory
